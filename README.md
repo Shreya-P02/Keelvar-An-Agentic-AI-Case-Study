@@ -26,14 +26,13 @@
 - Bullet point
 - Bullet point
 
-
-
-
-## 5. Application in Supply CHain Management
+## 5. Application of AI in Supply CHain Management
 - Bullet point
 - Bullet point
 - Bullet point
 
-
-
+## 6. Success Stories
+- Bullet point
+- Bullet point
+- Bullet point
 
