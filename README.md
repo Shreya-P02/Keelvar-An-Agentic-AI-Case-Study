@@ -1,5 +1,9 @@
 # Keelvar-Case-Study
 
+“Our technology fundamentally changes what's possible by offering a new approach to intelligent automation and optimization. We see immense opportunity to alleviate economic and supply chain bottlenecks by making the sourcing process easier, faster and more intelligent”
+
+-Alan Holland, Founder & CEO, Keelvar
+
 ## 1. Introduction
 Artificial Intelligence (AI) is transforming supply chains by enabling faster, accurate, data-driven decision-making about procurement and logistics. AI helps businesses move beyond manual processes and make better, evidence based decisions by analysing the large volumes of supplier and market data.
 
