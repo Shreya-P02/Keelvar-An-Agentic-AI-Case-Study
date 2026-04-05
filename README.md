@@ -44,10 +44,16 @@ Keelvar was founded to solve issues related to inefficiencies, lack of competiti
 - Additional early-stage private investors 
 
 ## 5. Supply CHain Problem Addressed 
-- Bullet point
-- Bullet point
-- Bullet point
+Procurement is a critical component of supply chain management and it includes selecting suppliers, negotiating contracts and controlling costs. However, standard procurement processes do face several challenges:
 
+- Manual and time-consuming sourcing processes
+- Limited ability to review detailed supplier offers
+- Difficulty responding quickly to market changes.
+- Poor oversight of supplier links
+
+These issues can create inefficiencies, rising costs and delays in supply chain operations. 
+
+According to industry analysis, disruptions such as changing logistics capacity and supply shortages have complicated procurement choices, calling for smarter, automated tools. ([Keelvar][3])
 ## 6. AI Technology used by Keelvar
 - Bullet point
 - Bullet point
