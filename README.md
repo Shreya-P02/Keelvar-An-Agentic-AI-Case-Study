@@ -30,9 +30,18 @@ Keelvar was founded to solve issues related to inefficiencies, lack of competiti
 - Bullet point
 
 ### 4.2 Investors
-- Bullet point
-- Bullet point
-- Bullet point
+- 83 North
+- Boomerang Ventures (often shown as Booom)
+- Endeavor Catalyst
+- Kloeckner Ventures
+- Frontline Ventures
+- Episode 1 Ventures
+- Elkstone
+- Tribal Ventures
+- Enterprise Ireland
+- Silicon Valley Bank
+- Angel Investors (Individuals)
+- Additional early-stage private investors 
 
 ## 5. Supply CHain Problem Addressed 
 - Bullet point
