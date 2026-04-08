@@ -97,6 +97,7 @@ Keelvar was founded to solve issues related to inefficiencies, lack of competiti
 ## 4. Partners and Investors
 ### 4.1 Partners
 Keevlar collaborates with a range of partners to improve the implementation and effectiveness of its sourcing solutions. Rather than operating in isolation, the company leverages these partnerships to connect its technology within broader procurement and business systems.
+
 Integration partners
 - XENETA
   "The partnership with Keelvar brings an opportunity for added value to companies needing advanced sourcing as well as visibility in ocean and air freight procurement. Xeneta customers already benefit from a great solution, and this opens a greater insight into what will enable smarter decision-making across the entire value chain."
