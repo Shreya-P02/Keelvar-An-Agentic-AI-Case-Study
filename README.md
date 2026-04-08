@@ -2,21 +2,21 @@
 
 “Our technology fundamentally changes what's possible by offering a new approach to intelligent automation and optimization. We see immense opportunity to alleviate economic and supply chain bottlenecks by making the sourcing process easier, faster and more intelligent”
 
--Alan Holland, Founder & CEO, Keelvar
+-Alan Holland, Founder & CEO, Keelvar [1]
 
 ## 1. Introduction
-Artificial Intelligence (AI) is transforming supply chains by enabling faster, accurate, data-driven decision-making about procurement and logistics. AI helps businesses move beyond manual processes and make better, evidence based decisions by analysing the large volumes of supplier and market data.
+Artificial Intelligence (AI) is transforming supply chains by enabling faster, accurate, data-driven decision-making about procurement and logistics. AI helps businesses move beyond manual processes and make better, evidence based decisions by analysing the large volumes of supplier and market data. [2]
 
-In response to this, several companies are utilising AI-powered sourcing tools to increase operations efficiency, lower costs and enhance scalability. These technologies automate complex tasks such as evaluating bids and analysing scenarios to allow procurement teams to work strategically and adapt and respond quickly to the changes in the market conditions.
+In response to this, several companies are utilising AI-powered sourcing tools to increase operations efficiency, lower costs and enhance scalability. These technologies automate complex tasks such as evaluating bids and analysing scenarios to allow procurement teams to work strategically and adapt and respond quickly to the changes in the market conditions. [3]
 
-This case study helps us understand how Keelvar applies AI to optimize sourcing and procurement in supply chains globally, highlighting the impact of intelligent automation on performance and decision-making.
+This case study helps us understand how Keelvar applies AI to optimize sourcing and procurement in supply chains globally, highlighting the impact of intelligent automation on performance and decision-making. [4]
 
 ## 2. About Keelvar
-Keelvar was founded by Alan Holland in 2012 to commercialise research in artificial intelligence and optimisation for procurement. The company originated from a research at University College of Cork, focusing on mechanism design and combinatorial auctions.
+Keelvar was founded by Alan Holland in 2012 to commercialise research in artificial intelligence and optimisation for procurement. The company originated from a research at University College of Cork, focusing on mechanism design and combinatorial auctions. [5]
 
 The early research had a significant impact on the real world by saving about €300,000 on a €6 million public procurement project. This showed how advanced algorithms could enhance sourcing decision efficiency.
 
-Keelvar was founded to solve issues related to inefficiencies, lack of competition and high prices in the procurement markets. Currently, Keelvar uses AI-driven sourcing optimisation solutions to improve decision making, increase competition and improve efficiency.
+Keelvar was founded to solve issues related to inefficiencies, lack of competition and high prices in the procurement markets. Currently, Keelvar uses AI-driven sourcing optimisation solutions to improve decision making, increase competition and improve efficiency. [6]
 
 ## 3. Milestones and Awards Timeline
 ### 2012: The Academic Genesis
@@ -92,7 +92,7 @@ Keelvar was founded to solve issues related to inefficiencies, lack of competiti
 - World Procurement Awards 2025
 #### Recognition: 
 - Innovation Insight: Managing Tail Spend Technology Solutions
-- Gartner Hype Cycle for Procurement and Sourcing Solutions
+- Gartner Hype Cycle for Procurement and Sourcing Solutions [1]
 
 ## 4. Partners and Investors
 ### 4.1 Partners
@@ -153,3 +153,19 @@ According to industry analysis, disruptions such as changing logistics capacity 
 - Bullet point
 - Bullet point
 - Bullet point
+
+
+
+## References
+[1] https://www.keelvar.com/about-us
+
+[2] Toorajipour, R., Sohrabpour, V., Nazarpour, A., Oghazi, P. and Fischl, M. (2021) ‘Artificial intelligence in supply chain management: A systematic literature review’, Journal of Business Research, 122, pp. 502–517.
+
+[3] https://www.keelvar.com/sourcing-optimizer
+
+[4] https://www.keelvar.com/
+
+[5] https://www.keelvar.com/team-members/keelvar
+
+[6] https://www.keelvar.com/blog/origins-keelvar
+
