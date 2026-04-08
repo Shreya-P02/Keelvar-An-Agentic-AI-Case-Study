@@ -96,9 +96,84 @@ Keelvar was founded to solve issues related to inefficiencies, lack of competiti
 
 ## 4. Partners and Investors
 ### 4.1 Partners
-- Bullet point
-- Bullet point
-- Bullet point
+Keevlar collaborates with a range of partners to improve the implementation and effectiveness of its sourcing solutions. Rather than operating in isolation, the company leverages these partnerships to connect its technology within broader procurement and business systems.
+Integration partners
+- XENETA
+  "The partnership with Keelvar brings an opportunity for added value to companies needing advanced sourcing as well as visibility in ocean and air freight procurement. Xeneta customers already benefit from a great solution, and this opens a greater insight into what will enable smarter decision-making across the entire value chain."
+
+Thorsten Diephaus, VP Strategic Alliance, Xeneta
+  
+- DAT & Freight Analytics
+  "This integration with Keelvar delivers advanced freight insights to the shippers who trust our data. With access to historical, current, and predictive pricing, joint users can better navigate complex freight markets."
+
+Ken Adamo, Vice President of Strategy and Chief of Analytics, DAT
+
+- SONAR
+  "Our partnership with Keelvar makes SONAR data more accessible to the market and in the workflow, furthering our strategy of making mission-critical data available in the systems that customers use most."
+
+Spencer Piland, Chief Operating Officer and Chief Financial Officer, SONAR
+
+- SPENDHQ
+  "For our clients, this integration is a game-changer—it centralizes data, eliminates duplication, and drives efficiency by seamlessly connecting insights to sourcing execution."
+
+  Pierre Laprée, CPO, SpendHQ
+
+  Technology & Consultancy partners
+- Apsolut
+- excelerateds2p
+- Catena clearing
+  
+Best-of-Breed Partners
+- BEROE Advantage Procurement
+- Provalido
+- Sonar
+- Overhaul
+- resilinc
+- Trust your supplier
+- SCOUTBEE
+- DocuSign
+- Vesper
+- Sievo
+- CIRTUO
+- Upply
+- Sphera
+- ecodavis
+- searoutes
+- INTEGRITY NEXT
+- carbmee
+- Emitwise
+- ORO
+- Zip
+  
+Strategic Alliances
+- SAP Ariba
+- PROKURA
+- accenture
+  
+Referral Partners
+- Adjust
+- ProcXL
+- vivo
+- IMPLEMENT CONSULTING GROUP
+- KP GLOBAL LOGISTICS CONSULTING
+- schain advisory
+- klarnskou
+- Peers Group
+- Spendlinq
+- Moneyball CPH
+- source:net
+- PROKURA
+- NTT Data Supply Chain Consulting
+  
+Academic Partners
+- University of lodz
+- Munster Technological University
+- University College Cork, Ireland
+- Saint John's university
+- College of Saint Benedict
+
+  
+  
 
 ### 4.2 Investors
 - 83 North
@@ -115,16 +190,21 @@ Keelvar was founded to solve issues related to inefficiencies, lack of competiti
 - Additional early-stage private investors 
 
 ## 5. Supply CHain Problem Addressed 
-Procurement is a critical component of supply chain management and it includes selecting suppliers, negotiating contracts and controlling costs. However, standard procurement processes do face several challenges:
+Procurement is a critical component of supply chain management and it includes selecting suppliers, negotiating contracts and controlling costs. However, standard procurement processes do face several key challenges:
 
-- Manual and time-consuming sourcing processes
-- Limited ability to review detailed supplier offers
-- Difficulty responding quickly to market changes.
-- Poor oversight of supplier links
+- Manual, time-consuming sourcing done with the use of spreadsheets lead to inefficiencies and errors.
+- Limited ability to review detailed supplier offers across various restrictions and compromises.
+- Missing Insight into ideal supplier pairings, hindering smart data choices.
+- Difficulty responding quickly to market changes due to reactive and slow procurement processes.
+- Over-dependence on routine manual jobs such as issuing RFQs and reviewing bids.
+- Poor oversight of supplier relationships and dependencies as supply chains get more complex.
 
-These issues can create inefficiencies, rising costs and delays in supply chain operations. 
+These problems intensify with more complicated, globalised sourcing, making it difficult for companies to achieve cost efficiency and expansion with outdated tools. 
 
-According to industry analysis, disruptions such as changing logistics capacity and supply shortages have complicated procurement choices, calling for smarter, automated tools. ([Keelvar][3])
+Overall, these issues highlight a growing gap between modern supply chain complexity and the limitations of conventional procurement methods, therefore creating the need for more intelligent and automated sourcing solutions.
+
+According to industry analysis, disruptions such as changing logistics capacity and supply shortages have further complicated procurement choices, calling for smarter, data-driven tools.
+
 ## 6. AI Technology used by Keelvar
 
 - Combinatorial Optimization & Game Theory - Keelvar's core engine applies game theory to evaluate thousands of supplier combinations simultaneously , rather than simply selecting the cheapest option per line item. The platform supports bundle bidding , whereby a supplier may offfer a  conditional discount if awarded multiple contracts. The AI calculates whether accepting such a bundle yields greater overall value than splitting contracts across separate low cost suppliers
