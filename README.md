@@ -208,16 +208,16 @@ According to industry analysis, disruptions such as changing logistics capacity 
 
 ## 6. AI Technology used by Keelvar
 
-- Combinatorial Optimization & Game Theory - Keelvar's core engine applies game theory to evaluate thousands of supplier combinations simultaneously , rather than simply selecting the cheapest option per line item. The platform supports bundle bidding , whereby a supplier may offfer a  conditional discount if awarded multiple contracts. The AI calculates whether accepting such a bundle yields greater overall value than splitting contracts across separate low cost suppliers
+- Combinatorial Optimization & Game Theory - Keelvar's core engine applies game theory to evaluate thousands of supplier combinations simultaneously , rather than simply selecting the cheapest option per line item. The platform supports bundle bidding , whereby a supplier may offfer a  conditional discount if awarded multiple contracts. The AI calculates whether accepting such a bundle yields greater overall value than splitting contracts across separate low cost suppliers [6]
 
-- Autonomous Sourcing Bots - AI bots manage the full sourcing cycle end to end launching events, collecting bids, validating data , and recommending the best award. In practice , Keelvar deployed these bots for Siemens , cutting sourcing timelines from weeks to minutes with up to 90% reduction in manual workload.
+- Autonomous Sourcing Bots - AI bots manage the full sourcing cycle end to end launching events, collecting bids, validating data , and recommending the optimal awards [7]. In practice , Keelvar deployed these bots for Siemens , cutting sourcing timelines from weeks to minutes with up to 90% reduction in manual workload.
   
-- Kai - Agentic AI Orchestrator - Kai is an advanced AI system that coordinates multiple specialised agents to interpret and act on procurement goals expressed in natural language . A procurement professional can input a high level objective such as "Find a  more sustainable shipping route for the European lane without increasing cost by more than 5% and kai analyses over 1000 what if scenarios instantly enabling teams with limited technical expertise to execute complex, data driven sourcing decisions"
+- Kai - Agentic AI Orchestrator - Kai is an advanced AI system that coordinates multiple specialised agents to interpret and act on procurement goals expressed in natural language . A procurement professional can input a high level objective such as "Find a  more sustainable shipping route for the European lane without increasing cost by more than 5% and kai analyses over 1000 what if scenarios instantly enabling teams with limited technical expertise to execute complex, data driven sourcing decisions"[8]
 
 ## 7. Application of AI in Supply Chain Management
-- Freight and Logistics Procurement - Keelvar's AI optimises ocean and air freight tenders by simultaneously evaluating carrier routes , pricing structures , bundle discounts , capacity constraints, and sustainability metrics.A leading global beverage company applied this capability across 175 sourcing events , achieving savings equivalent to 1575 workdays demonstrating the substantial operational efficiency achievable through AI driven logistics procurement
-- Supplier sourcing and Scalability - By automating bid evaluation and scenario modelling , Keelvar enables organisations to scale procurement operations significantly without proportional increases in headcount. 
-- Rish Management and Supply Chain Resillience - Keelvar's scenario modelling allows organisations to stress test procurement strategies against disruptions such as port closures , fuel price volatility or supplier capacity shortfalls, evidencing how AI driven procurement strengthens both the speed and financial resillience of global supply chains
+- Freight and Logistics Procurement - Keelvar's AI optimises ocean and air freight tenders by simultaneously evaluating carrier routes , pricing structures , bundle discounts , capacity constraints, and sustainability metrics.A leading global beverage company applied this capability across 175 sourcing events , achieving savings equivalent to 1575 workdays demonstrating the substantial operational efficiency achievable through AI driven logistics procurement [8]
+- Supplier sourcing and Scalability - By automating bid evaluation and scenario modelling , Keelvar enables organisations to scale procurement operations significantly without proportional increases in headcount. [4] [7].
+- RisK Management and Supply Chain Resillience - Keelvar's scenario modelling allows organisations to stress test procurement strategies against disruptions such as port closures , fuel price volatility or supplier capacity shortfalls, evidencing how AI driven procurement strengthens both the speed and financial resillience of global supply chains. [7] [9].
 
 ## 8. Success Stories
 - Bullet point
@@ -250,3 +250,8 @@ According to industry analysis, disruptions such as changing logistics capacity 
 
 [6] https://www.keelvar.com/blog/origins-keelvar
 
+[7]  https://www.keelvar.com/resources  
+
+[8]  https://www.keelvar.com/solutions  
+
+[9] https://www.mckinsey.com/capabilities/operations/our-insights
