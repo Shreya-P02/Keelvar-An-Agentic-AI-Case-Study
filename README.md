@@ -220,16 +220,29 @@ According to industry analysis, disruptions such as changing logistics capacity 
 - RisK Management and Supply Chain Resillience - Keelvar's scenario modelling allows organisations to stress test procurement strategies against disruptions such as port closures , fuel price volatility or supplier capacity shortfalls, evidencing how AI driven procurement strengthens both the speed and financial resillience of global supply chains. [7] [9].
 
 ## 8. Success Stories
-|  Problem                                 | Solution                                          | Impact                                    |
-|------------------------------------------|---------------------------------------------------|-------------------------------------------|
-| Manual freight sourcing using emails,    | Implemented Keelvar Sourcing Optimizer with       | Reduced freight costs by 10–15%, cut sourcing  
-spreadsheets, and long negotiation cycles  | AI-powered bid analysis, scenario optimization,   |cycle time from weeks to days, and improved
-leading to high logistics costs, limited   | and digital supplier bidding (e-auctions)         |decision-making with data-driven insights
-supplier competition, and poor pricing     |                                                   |
-visibility    
+1. Transforming the Logistics Procurement- A large global manufacturer struggled with manual freight sourcing. Their process involved emails, spreadsheets, and long negotiation cycles. 
 
-- Bullet point
-- Bullet point
+|  Problem                               | Solution                                       | Impact                                    |
+|----------------------------------------|------------------------------------------------|-------------------------------------------|
+| High logistics costs                   | AI-powered bid analysis                        | Reduced freight costs by 10–15%
+| Limited supplier competition           | Scenario optimization                          | Cut sourcing cycle time from weeks to days
+| Poor visibility into pricing           | Digital supplier bidding (e-auctions)          | Improved decision-making with data-driven insights
+
+2. A large retailer faced inefficiencies in managing tail spend (low-value, high-volume sourcing events)
+
+|  Problem                               | Solution                                       | Impact                                    |
+|----------------------------------------|------------------------------------------------|-------------------------------------------|
+| Too many small sourcing requests       | Automated RFQs (Request for Quotations)        | Processed many sourcing events automatically
+| Procurement team overwhelmed           | AI-driven supplier engagement                  | Reduced procurement workload significantly
+| Missed cost-saving opportunities       | Event-based sourcing by less human intervention| Achieved consistent cost savings across categories
+
+3. A huge automotive company had major issues managing the complex supplier constraints 
+
+|  Problem                               | Solution                                          | Impact                                    |
+|----------------------------------------|------------------------------------------------   |-------------------------------------------|
+| Thousands of parts                     | Used Sourcing Optimizer multi-constraint scenarios| Optimized supplier mix across regions
+| Multiple suppliers with capacity limits| Automated supplier allocation based on cost, capacity, and risk|| Reduced procurement costs significantly
+|Constraints like delivery timelines, cost, and quality      | Event-based sourcing by less human intervention| Increased transparency in decision-making
 
 ## 9. Insights
 ### 9.1. Impact on Ireland
