@@ -117,12 +117,12 @@ Spencer Piland, Chief Operating Officer and Chief Financial Officer, SONAR
 - SPENDHQ
   "For our clients, this integration is a game-changer—it centralizes data, eliminates duplication, and drives efficiency by seamlessly connecting insights to sourcing execution."
 
-  Pierre Laprée, CPO, SpendHQ
+  Pierre Laprée, CPO, SpendHQ [7]
 
   Technology & Consultancy partners
 - Apsolut
 - excelerateds2p
-- Catena clearing
+- Catena clearing. [8]
   
 Best-of-Breed Partners
 - BEROE Advantage Procurement
@@ -144,12 +144,12 @@ Best-of-Breed Partners
 - carbmee
 - Emitwise
 - ORO
-- Zip
+- Zip. [9]
   
 Strategic Alliances
 - SAP Ariba
 - PROKURA
-- accenture
+- accenture. [10]
   
 Referral Partners
 - Adjust
@@ -164,14 +164,14 @@ Referral Partners
 - Moneyball CPH
 - source:net
 - PROKURA
-- NTT Data Supply Chain Consulting
+- NTT Data Supply Chain Consulting. [11]
   
 Academic Partners
 - University of lodz
 - Munster Technological University
 - University College Cork, Ireland
 - Saint John's university
-- College of Saint Benedict
+- College of Saint Benedict. [12]
 
   
   
@@ -188,23 +188,23 @@ Academic Partners
 - Enterprise Ireland
 - Silicon Valley Bank
 - Angel Investors (Individuals)
-- Additional early-stage private investors 
+- Additional early-stage private investors [13]
 
-## 5. Supply CHain Problem Addressed 
-Procurement is a critical component of supply chain management and it includes selecting suppliers, negotiating contracts and controlling costs. However, standard procurement processes do face several key challenges:
+## 5. Supply Chain Problem Addressed 
+Procurement is a critical component of supply chain management and it includes selecting suppliers, negotiating contracts and controlling costs. [16] However, standard procurement processes do face several key challenges:
 
-- Manual, time-consuming sourcing done with the use of spreadsheets lead to inefficiencies and errors.
-- Limited ability to review detailed supplier offers across various restrictions and compromises.
-- Missing Insight into ideal supplier pairings, hindering smart data choices.
-- Difficulty responding quickly to market changes due to reactive and slow procurement processes.
-- Over-dependence on routine manual jobs such as issuing RFQs and reviewing bids.
-- Poor oversight of supplier relationships and dependencies as supply chains get more complex.
+- Manual, time-consuming sourcing done with the use of spreadsheets lead to inefficiencies and errors. [3]
+- Limited ability to review detailed supplier offers across various restrictions and compromises. [8]
+- Missing Insight into ideal supplier pairings, hindering smart data choices. [8]
+- Difficulty responding quickly to market changes due to reactive and slow procurement processes. [15]
+- Over-dependence on routine manual jobs such as issuing RFQs and reviewing bids.[8]
+- Poor oversight of supplier relationships and dependencies as supply chains get more complex. [4]
 
 These problems intensify with more complicated, globalised sourcing, making it difficult for companies to achieve cost efficiency and expansion with outdated tools. 
 
 Overall, these issues highlight a growing gap between modern supply chain complexity and the limitations of conventional procurement methods, therefore creating the need for more intelligent and automated sourcing solutions.
 
-According to industry analysis, disruptions such as changing logistics capacity and supply shortages have further complicated procurement choices, calling for smarter, data-driven tools.
+According to industry analysis, disruptions such as changing logistics capacity and supply shortages have further complicated procurement choices, calling for smarter, data-driven tools. [14]
 
 ## 6. AI Technology used by Keelvar
 
@@ -250,8 +250,30 @@ According to industry analysis, disruptions such as changing logistics capacity 
 
 [6] https://www.keelvar.com/blog/origins-keelvar
 
-[7]  https://www.keelvar.com/resources  
+[7] https://www.keelvar.com/partner-groups/integration-partners
 
-[8]  https://www.keelvar.com/solutions  
+[8] https://www.keelvar.com/partner-groups/tech-partners
 
-[9] https://www.mckinsey.com/capabilities/operations/our-insights
+[9] https://www.keelvar.com/partner-groups/best-of-breed
+
+[10] https://www.keelvar.com/partner-groups/strategic-alliances
+
+[11] https://www.keelvar.com/partner-groups/referral-partners
+
+[12] https://www.keelvar.com/academic-program
+
+[13] https://pitchbook.com/profiles/company/55423-72#investors
+
+[14] https://www.mckinsey.com/capabilities/tech-and-ai/how-we-help-clients
+
+[15] https://hbr.org/2020/03/coronavirus-is-a-wake-up-call-for-supply-chain-management
+
+[16] https://www.ibm.com/think/topics/procurement
+
+[17] https://www.keelvar.com/documents
+
+[18]  https://www.keelvar.com/resources  
+
+[19]  https://www.keelvar.com/solutions  
+
+[20] https://www.mckinsey.com/capabilities/operations/our-insights
