@@ -313,3 +313,9 @@ Keelvar doesn't just promise efficiency; it provides hard, audited results for s
 [19]  https://www.keelvar.com/solutions  
 
 [20] https://www.mckinsey.com/capabilities/operations/our-insights
+
+[21] https://www.keelvar.com/newsroom
+
+[22] https://www.businesswire.com/news/home/20260305792892/en/Procurement-Teams-Using-AI-Are-3x-More-Resilient-to-Market-Shocks-Keelvars-2026-Annual-Survey-Finds
+
+[23] https://www.keelvar.com/documents/customer-use-case-packaging
