@@ -220,7 +220,14 @@ According to industry analysis, disruptions such as changing logistics capacity 
 - RisK Management and Supply Chain Resillience - Keelvar's scenario modelling allows organisations to stress test procurement strategies against disruptions such as port closures , fuel price volatility or supplier capacity shortfalls, evidencing how AI driven procurement strengthens both the speed and financial resillience of global supply chains. [7] [9].
 
 ## 8. Success Stories
-- Bullet point
+|  Problem                                 | Solution                                          | Impact                                    |
+|------------------------------------------|---------------------------------------------------|-------------------------------------------|
+| Manual freight sourcing using emails,    | Implemented Keelvar Sourcing Optimizer with       | Reduced freight costs by 10–15%, cut sourcing  
+spreadsheets, and long negotiation cycles  | AI-powered bid analysis, scenario optimization,   |cycle time from weeks to days, and improved
+leading to high logistics costs, limited   | and digital supplier bidding (e-auctions)         |decision-making with data-driven insights
+supplier competition, and poor pricing     |                                                   |
+visibility    
+
 - Bullet point
 - Bullet point
 
