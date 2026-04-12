@@ -219,7 +219,7 @@ According to industry analysis, disruptions such as changing logistics capacity 
 - Supplier sourcing and Scalability - By automating bid evaluation and scenario modelling , Keelvar enables organisations to scale procurement operations significantly without proportional increases in headcount. [4] [7].
 - RisK Management and Supply Chain Resillience - Keelvar's scenario modelling allows organisations to stress test procurement strategies against disruptions such as port closures , fuel price volatility or supplier capacity shortfalls, evidencing how AI driven procurement strengthens both the speed and financial resillience of global supply chains. [7] [9].
 
-## 8. Success Stories
+## 8. Success Stories [24]
 1. Transforming the Logistics Procurement- A large global manufacturer struggled with manual freight sourcing. Their process involved emails, spreadsheets, and long negotiation cycles. 
 
 |  Problem                               | Solution                                       | Impact                                    |
@@ -253,13 +253,13 @@ Academic-Industry Partnering 
 The firm has strong links with Irish universities (eg UCC and UCD). They have also initiated Academic Programs which allow students to use for free their Sourcing Optimizer solutions. This means that Irish graduates are competing for jobs already certified in advanced AI sourcing—and that means that those grads have a serious leg up in the global job market.
 
 ### 9.3 Growth of Economy and Jobs
-Deloitte Fast 50: Keelvar has consistently rated highly in the Deloitte Technology Fast 50 Ireland, proving to be a strategic driver in growing the Irish economy.
+Deloitte Fast 50: Keelvar has consistently rated highly in the Deloitte Technology Fast 50 Ireland, proving to be a strategic driver in growing the Irish economy.[21]
 
 ### 9.4 High-Value Job Creation: 
 Keelvar isn't simply adding up "headcount." Irish-based Keelvar is hiring specialized AI scientists, game theoretists, and engineers, continuing to expand the skill level of the economy.
 
 ### 9.5 Ireland’S Public Procurement Modernisation
-While Keelvar, works with the likes of Coca-Cola and BMW, its presence in Ireland shapes national policy. Their recent research and whitepapers are increasingly aligned with the Country’s National Procurement Strategy in Ireland, building the evidence based world class data and frameworks for the Irish government to reform the way it invests such a massive €22 billion public procurement budget. 
+While Keelvar, works with the likes of Coca-Cola and BMW, its presence in Ireland shapes national policy. Their recent research and whitepapers are increasingly aligned with the Country’s National Procurement Strategy in Ireland, building the evidence-based, world-class data and frameworks for the Irish government to reform the way it invests such a massive €22 billion public procurement budget[22]. 
 
 ### 9.2. Proven Outcomes
 Keelvar doesn't just promise efficiency; it provides hard, audited results for some of the world's most complex supply chains.
@@ -267,9 +267,9 @@ Keelvar doesn't just promise efficiency; it provides hard, audited results for s
 - In Packaging, clients realised a further 25% in savings on top of what they would achieve through conventional bidding processes.
 - In niche areas such as logistics and packaging, firms are seeing a return on investment of over 200x the cost of the software.
 -  Keelvar’s “Sourcing Bots” (such as Kai, their AI orchestrator) can bring down the time to launch and close a bid from weeks to just days.
-- Samsung is among the companies that have saved 85% of their time moving from manual Excel sheets to Keelvar for their sourcing teams, enabling them to focus on strategy instead of data entry.
-- Keelvar’s 2026 Annual Survey reveals that teams leveraging AI and automation are 3.7 times less likely to experience significant supply chain interruptions than those relying on manual processes.
-- TCompanies can use the platform to factor in “Carbon Footprint” as a significant variable along with price, and this has allowed global companies to reach their ESG targets without sacrificing their bottom line.
+- Samsung is among the companies that have saved 85% of their time moving from manual Excel sheets to Keelvar for their sourcing teams, enabling them to focus on strategy instead of data entry.[23]
+- Keelvar’s 2026 Annual Survey reveals that teams leveraging AI and automation are 3.7 times less likely to experience significant supply chain interruptions than those relying on manual processes.[22]
+- Companies can use the platform to factor in “Carbon Footprint” as a significant variable along with price, and this has allowed global companies to reach their ESG targets without sacrificing their bottom line.[25]
 
 ## Conclusion
 
@@ -319,3 +319,7 @@ Keelvar doesn't just promise efficiency; it provides hard, audited results for s
 [22] https://www.businesswire.com/news/home/20260305792892/en/Procurement-Teams-Using-AI-Are-3x-More-Resilient-to-Market-Shocks-Keelvars-2026-Annual-Survey-Finds
 
 [23] https://www.keelvar.com/documents/customer-use-case-packaging
+
+[24] https://www.keelvar.com/success-stories
+
+[25] https://www.keelvar.com/partners/searoutes
