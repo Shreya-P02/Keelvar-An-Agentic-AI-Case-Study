@@ -246,9 +246,8 @@ According to industry analysis, disruptions such as changing logistics capacity 
 ## 9. Insights
 ### 9.1. Impact on Ireland
 Keelvar has put Ireland on the map as a centre for Agentic AI and Enterprise SaaS. Its decision to keep its headquarters in Cork and grow its global footprint has demonstrated that world-class AI companies don’t need to be in Silicon Valley to serve the Fortune 500. This has led to a “clustering effect,” and now local talent in Munster is considered to be the global gold standard for supply chain technology.
-Academic-Industry Partnering 
 
-### 9.2 Strengthening the Pipeline
+### 9.2 Strengthening the Academic-Industry Pipeline
 The firm has strong links with Irish universities (e.g, UCC and UCD). They have also initiated Academic Programs which allow students to use for free their Sourcing Optimizer solutions. This means that Irish graduates are competing for jobs already certified in advanced AI sourcing—and that means that those grads have a serious leg up in the global job market.
 
 ### 9.3 Growth of Economy and Jobs
