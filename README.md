@@ -1,4 +1,4 @@
-# Keelvar-Case-Study
+# Keelvar: An Agentic AI Case Study in Supply Chain Procurement
 
 “Our technology fundamentally changes what's possible by offering a new approach to intelligent automation and optimization. We see immense opportunity to alleviate economic and supply chain bottlenecks by making the sourcing process easier, faster and more intelligent”
 
